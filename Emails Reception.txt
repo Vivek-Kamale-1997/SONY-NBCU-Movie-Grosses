@@ -1,0 +1,112 @@
+EY Team Email IDs: 
+Amrita.Naskar@in.ey.com;
+Priti.Yadav@in.ey.com
+Priyank.Mohta@in.ey.com
+ 
+ 
+AWS testing:
+AWS NBCUQA :
+UK> invoice,booking confirmation>sanil.dsouza@capgemini.com
+WebMethods team:
+Nagasimha.Purushothama@sony.com;
+ETQ_webmethods_team@spe.sony.com;
+Sasidhar_Manam@spe.sony.com
+
+Email reception for diff PDF's:
+
+STX: mailto:theatrical.finance.uk@stxentertainment.com
+
+Circuit master: dextesting.in@capgemini.com
+
+Domestic SPR:
+SONY> AR statement>super.user@capgemini.com
+
+Australia:
+SONY> booking confirmation,Shipping sheet- AUS_SonyPictures_Sales@spe.sony.com
+SONY> AR statement>   AUS_SonyPictures_Finance@spe.sony.com
+SONY> Invoice>Australia_Theatrical_Finance@spe.sony.com
+NBCU>booking confirmation>universal.salesau@nbcuni.com
+NBCU> Shipping sheet> universal.salesau@nbcuni.com
+
+
+UK:
+NBCU> AR statement, Invoice > UniversalPicturesUKandEire.Finance@nbcuni.com
+NBCU>  Booking confirmations> UK_THEATRICAL_SALES@NBCUNI.COM
+SPE > shipping sheet> PROGRAMMATION@spe.sony.com
+SONY>AR statement,Booking confirmation,Invoice >UK_Theatrical_Finance@spe.sony.com
+
+
+
+Spain:
+nbcu> booking conf,shipping sheet> PROGRAMACION.UNIVERSAL@NBCUNI.COM
+nbcu> invoice , AR Statement > CONTA.UNIVERSAL@NBCUNI.COM
+SONY>booking confirmation>spain_almacenes_cine@spe.sony.com
+SONY> invoice> sony_cine_financiero@spe.sony.com
+SONY>Shipping Sheet>sony_cine_ventas@spe.sony.com
+SONY>AR Statement>spain_cobros_cine@spe.sony.com, sony_cine_financiero@spe.sony.com
+                  
+
+Brazil:
+nbcu> invoice> contas.upibrasil@nbcuni.com
+SONY>Invoice>BRTH_Faturamento@SPE.SONY.COM
+SONY>Book confirmation>BRTH_Programacao@SPE.SONY.COM
+
+Ireland
+NBCU> booking confirmation > Ireland_Theatrical_Sales@nbcuni.com
+
+France:
+NBCU> Invoice> Upi.facture@nbcuni.com
+NBCU>Booking confirmation>FranceSalesUnify@nbcuni.com
+NBCU>AR Statement>comptabilite_clients.upifrance@nbcuni.com
+SONY>Shipping Sheet>FranceOpsUnify@nbcuni.com
+SONY>Invoice> FR_BACKOFFICE@SPE.SONY.COM
+
+Switzerland:
+NBCU> invoice,Dunning Letter> SwitzerlandFinanceUnify@nbcuni.com
+NBCU>Booking confirmation,Shipping Sheet>SwitzerlandSalesUnify@nbcuni.com
+SONY>invoice>info@sonypictures.ch
+SONY>Invoice,Dunning letter>Buchhaltung_CH@spe.sony.com
+
+
+Germany:
+SONY> booking confirmation>DE_Verkauf_Berlin@spe.sony.com
+SONY>AR statement>Buchhaltung_Berlin@spe.sony.com
+NBCU> AR> UPI.Germany@nbcuni.com
+NBCU> Invoice> GermanyTheatricalFinance@nbcuni.com
+NBCU> booking confirmation>GermanyTheatricalSales@nbcuni.com
+
+Russia:
+SONY> booking confirmation >sales@sonypicturesentertainment.com
+SONY>AR Statement>Evgenia_Ortchyan@spe.sony.com
+
+Singapore:
+SONY> Invoice> SPE_SAP_Users_APAC_Finance_-_SG_IMP@spe.sony.com
+
+
+Austria:
+NBCU> Invoice,Shipping Sheet> AustriaTheatrical@nbcuni.com
+NBCU> booking confirmation >AustriaTheatrical@nbcuni.com
+
+Belgium/Netherlands:
+SONY>BELGIUM_FINANCE@SPE.SONY.COM
+SONY>Invoice>NED_Finance@spe.sony.com
+
+
+Italy:
+NBCU>invoice>FATTURAZIONECLIENTI@nbcuni.com
+NBCU>Book Confirmation>ItalySalesUnify@nbcuni.com
+NBCU>AR Statement>creditaly@nbuni.com
+unifysupport.in@capgemini.com
+
+
+Mexico:
+Raul_Prieto@spe.sony.com
+NBCU>Settlements Report>MX_THEATRICAL_FINANCE@NBCUNI.COM
+
+Philippines:
+SONY>AR statement,Booking confirmation,Invoice >UK_Theatrical_Finance@spe.sony.com
+
+Korea:
+NBCU> 
+AR Statement>KoreaFinanceUnify@nbcuni.com
+

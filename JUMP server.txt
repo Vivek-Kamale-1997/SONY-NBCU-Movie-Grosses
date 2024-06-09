@@ -1,0 +1,108 @@
+Service Now /snow ticket :
+https://sncapappsoneprod.service-now.com/navpage.do
+rogawade : user 
+Rohan@123: password
+umme.siddiqui 27/may/2022
+Capgemini@123
+
+File names:
+P001066-7065_Test_Execution_SPEval,NBCUval
+P001066-7065_Test_Execution_NBCUval,SPEval
+P001066-7065_Test_Execution_SPEQA,NBCUstage
+_Test_Execution_NBCUstage,SPEQA
+_Test_Execution_SPEQA
+_Test_Execution_NBCUstage
+
+Service Ticket raising portal(expiry of jump password):
+https://service.capgeminihosting.com/index/login
+lalit.phadtare@capgemini.com
+Password: Pass123456789*!@
+
+
+SAM Server:
+
+P001066-7700- Kindly Log your scrum calls hours on this Jira Id
+vkamale
+Avengersoffice@123-11/may/2022
+Welcome@1234      -11/may/2022 IMA
+Welcome@1234      -11/may/2022 1DDC 10:26 1DDC
+DL NAR DEX Windows Admins <dexwindowsadmins.nar@capgemini.com>
+
+
+10.10.10.10
+nbc_svc_jbs
+Welcome#321
+
+dlsnbcuappstg001	
+NBCU Stage App Server 1	
+10.10.10.7	
+bldacct	
+Welcome#345
+./runGenericDbExtractInfo.sh
+
+172.31.216.12
+svc_db_job
+Capgem@123
+
+DEXJMPSRV1MA  =67.204.93.135
+DEXJMPSRV1DDC =67.204.93.135
+Passcode: 1234
+CTRL+ALT+END
+
+Username:- aindresh
+Password :- Welcome@1234
+
+Kashyap's 1DDC Creds:
+Username: kawaje
+Password: Welcome@1234
+
+smulani/Pass@1234
+
+
+AccessToClientNetwork > DEX >  DEXJMPSRV1MA
+Smulani
+Welcome@123456789
+smulani
+Welcome@2020
+https://nbcustage.digitalentertainmentexchange.com
+
+Username : tkatiyar
+password : Capamerica@123
+username : tkatiyar
+password : Welcome@2020
+
+DEXJMPSRV1MA / DEXJMPSRV1DDC:
+Server name: DEXJMPSRV1MA\vkamale
+Server name: DEXJMPSRV1DDC\vkamale
+Password: Welcome@123
+
+SPEQA DATABASE:
+name:     DBO_IFDS
+password: SDEX_SPEQA_$_dbo_ifds_may21
+
+NBCUVAL DATABASE:
+name:     DBO_IFDS
+password: SDEX_NBCUVAL_$_dbo_ifds_10
+
+NBCUQA DATABASE:
+name:     DBO_IFDS
+password: SDEX_NBCUQA_$_dbo_ifds_apr21
+
+SPEVAL DATABASE:
+name:     DBO_IFDS
+password: SDEX_SPEVAL_dbo_ifds_apr21$'
+
+NBCUProd:
+User: DBO_READ
+Password: DEX_NBCUPROD_dbo_read_jul21
+
+
+
+
+Flow of successful invoice generation :
+DEX > Staging table >
+WebMethod(Wm) (picks staging table values) >
+WebMethod(Wm) sends staging values to EY(Ernst & Young) india tax company >
+WebMethod(Wm) gives update of EY to staging table>
+Alfresco system will generate invoice PDF> 
+Staging table gives final updates to SAP

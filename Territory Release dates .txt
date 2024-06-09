@@ -1,0 +1,59 @@
+1]Territory Release dates(weekday):
+
+Switzerland- Wednesday
+France-      Wednesday
+Germany-     Thursday
+Italy-       Thursday
+Australia-   Thursday
+Russia-      Thursday
+India-       Friday
+USA-         Friday
+UK-          Friday
+Austria-     Friday
+Spain-       Friday
+Taiwan-      Thursday
+Philippines- Wednesday
+Korea-       Thursday
+Brazil-		 Thursday
+Malaysia-	 Thursday
+
+
+2] Territory ID's
+
+Name	   ID
+Australia	1
+Austria	2
+Belgium	3
+Brasil	4
+France	5
+Germany	6
+Netherlands	7
+Italy	8
+Japan	9
+Mexico	10
+New Zealand	11
+Spain	12
+Sweden (Old)	13
+United Kingdom & Ireland	14
+Russia	15
+Korea	16
+Malaysia	17
+Philippines	18
+Singapore	19
+Thailand	20
+Malta	21
+India	22
+Poland	23
+Denmark	24
+Norway	25
+Sweden	26
+Netherlands Archive	27
+Hong Kong	28
+Switzerland	30
+Taiwan  39
+Domestic - LGF	97
+Domestic - SPC	98
+Domestic - SPR	99
+
+
+
